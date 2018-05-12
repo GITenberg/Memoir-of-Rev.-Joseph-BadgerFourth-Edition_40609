@@ -1,0 +1,30 @@
+_repo: Memoir-of-Rev.-Joseph-BadgerFourth-Edition_40609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holland, E. G. (Elihu Goodwin)
+    alias: Holland, Elihu Goodwin
+    birthdate: 1817
+    deathdate: 1878
+    gutenberg_agent_id: '40726'
+    url: http://www.gutenberg.org/2009/agents/40726
+description: ''
+gutenberg_issued: '2012-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40609'
+  lccn: '36032231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Badger, Joseph, 1792-1852'
+- !lcc 'BX'
+title: 'Memoir of Rev. Joseph Badger
+
+  Fourth Edition'
+url: http://www.gutenberg.org/ebooks/40609
